@@ -75,6 +75,18 @@ const music_list = [
         artist : 'Polo G',
         music : 'music/rapstar.mp3'
     },
+    {
+        img : 'images/music.png',
+        name : 'Centuries',
+        artist : 'Fall Out Boy',
+        music : 'music/centuries.mp3'
+    },
+    {
+        img : 'images/music.png',
+        name : 'Stereo Hearts',
+        artist : 'Gym Class Heroes',
+        music : 'music/stereohearts.mp3'
+    },
 ];
 
 loadTrack(track_index);
